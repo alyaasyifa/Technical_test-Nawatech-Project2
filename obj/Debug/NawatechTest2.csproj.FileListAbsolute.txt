@@ -1,0 +1,8 @@
+C:\Nawatech\NawatechTest2\bin\Debug\NawatechTest2.exe.config
+C:\Nawatech\NawatechTest2\bin\Debug\NawatechTest2.exe
+C:\Nawatech\NawatechTest2\bin\Debug\NawatechTest2.pdb
+C:\Nawatech\NawatechTest2\obj\Debug\NawatechTest2.csproj.AssemblyReference.cache
+C:\Nawatech\NawatechTest2\obj\Debug\NawatechTest2.csproj.CoreCompileInputs.cache
+C:\Nawatech\NawatechTest2\obj\Debug\NawatechTest2.exe
+C:\Nawatech\NawatechTest2\obj\Debug\NawatechTest2.pdb
+C:\Nawatech\NawatechTest2\obj\Debug\NawatechTest2.exe.config
